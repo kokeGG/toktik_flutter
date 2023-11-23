@@ -17,4 +17,11 @@ dependencies: \
   /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
   /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
   /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
-  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/video_player_avfoundation/video_player_avfoundation.framework/Headers/FVPVideoPlayerPlugin.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/video_player_avfoundation/video_player_avfoundation.framework/Modules/module.modulemap \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/video_player_avfoundation/video_player_avfoundation.framework/Headers/video_player_avfoundation-umbrella.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/video_player_avfoundation/video_player_avfoundation.framework/Headers/AVAssetTrackUtils.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/video_player_avfoundation/video_player_avfoundation.framework/Headers/FVPDisplayLink.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/video_player_avfoundation/video_player_avfoundation.framework/Headers/FVPVideoPlayerPlugin_Test.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/video_player_avfoundation/video_player_avfoundation.framework/Headers/messages.g.h
