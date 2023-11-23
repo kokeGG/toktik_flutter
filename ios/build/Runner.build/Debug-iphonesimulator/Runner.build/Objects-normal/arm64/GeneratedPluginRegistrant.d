@@ -1,0 +1,20 @@
+dependencies: \
+  /Users/jorgehernandez/Documents/toktik_flutter/ios/Runner/GeneratedPluginRegistrant.m \
+  /Users/jorgehernandez/Documents/toktik_flutter/ios/Runner/GeneratedPluginRegistrant.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/Flutter.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterAppDelegate.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterMacros.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlugin.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterBinaryMessenger.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterChannels.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCodecs.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPlatformViews.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterTexture.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterCallbackCache.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterDartProject.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngine.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterEngineGroup.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterHeadlessDartRunner.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterPluginAppLifeCycleDelegate.h \
+  /Users/jorgehernandez/Documents/toktik_flutter/build/ios/Debug-iphonesimulator/Flutter.framework/Headers/FlutterViewController.h
