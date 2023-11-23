@@ -43,7 +43,7 @@
           "BUILD_DIR" : "/Users/jorgehernandez/Documents/toktik_flutter/build/ios",
           "COMPILER_INDEX_STORE_ENABLE" : "NO",
           "FLUTTER_SUPPRESS_ANALYTICS" : "true",
-          "SCRIPT_OUTPUT_STREAM_FILE" : "/var/folders/n_/90_3_z5n00b7hj80xyqm5mjh0000gn/T/flutter_tools.uR07JQ/flutter_ios_build_temp_dirpH0tUB/pipe_to_stdout",
+          "SCRIPT_OUTPUT_STREAM_FILE" : "/var/folders/n_/90_3_z5n00b7hj80xyqm5mjh0000gn/T/flutter_tools.XNuVKs/flutter_ios_build_temp_dir3Ioewy/pipe_to_stdout",
           "SDKROOT" : "iphonesimulator17.0"
         }
       },
