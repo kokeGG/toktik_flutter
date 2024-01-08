@@ -47,6 +47,18 @@ List<Map<String, dynamic>> videoPosts = [
     'likes': 342,
     'views': 3332,
   },
+  {
+    'name': 'chestercito lindo en la trakatera',
+    'videoUrl': 'assets/videos/VID-20240106-WA0000.mp4',
+    'likes': 992131,
+    'views': 3234234
+  },
+  {
+    'name': 'MIAU',
+    'videoUrl': 'assets/videos/VID_40200919_023159_625.mp4',
+    'likes': 992131,
+    'views': 3234234
+  }
 
 
 ];
